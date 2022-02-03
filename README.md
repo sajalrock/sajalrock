@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajal</h1>
 
 <p align="center">
-  <a href="https://t.me/nouseridfound"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Dipesh?">
+  <a href="https://t.me/nouseridfound"><img src="http://readme-typing-svg.herokuapp.com?color=3C8E9C&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Dipesh?">
 </p>
 
 <p align="center"> <a href="https://t.me/nouseridfound"><img src="https://telegra.ph/file/64d1bc3f4474a22dee976.jpg" alt="Hiro"></a>
